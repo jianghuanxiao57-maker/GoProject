@@ -1,4 +1,4 @@
-module MyProject
+module GoProject
 
 go 1.26.4
 
